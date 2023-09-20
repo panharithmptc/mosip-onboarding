@@ -1,5 +1,5 @@
 [{
-	"id": "",
+	"id": "mpolicygroup-default-oidc",
 	"metadata": null,
 	"request": {
 		"name": "{{policy-name}}",
